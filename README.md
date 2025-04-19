@@ -1,7 +1,3 @@
-Certainly! Here's a comprehensive `README.md` for your GitHub repository, tailored to your project hosted at [chatgpt-alpha-six-67.vercel.app](https://chatgpt-alpha-six-67.vercel.app/). This template is inspired by best practices observed in similar projects citeturn0search0.
-
----
-
 # ChatGPT Assistant UI
 
 A sleek, responsive AI chatbot interface built with Next.js and the Vercel AI SDK, powered by OpenAI's GPT-4. Easily deployable on Vercel, this project offers a seamless conversational experience.
@@ -106,7 +102,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this `README.md` further to align with your project's specifics. If you need assistance with any particular section or additional features, don't hesitate to ask! 
